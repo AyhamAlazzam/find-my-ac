@@ -23,13 +23,13 @@ Navigating through hundreds of submissions to find your accepted solution on Cod
    ```bash
    git clone [https://github.com/AyhamAlazzam/find-my-ac.git](https://github.com/AyhamAlazzam/find-my-ac.git)
 
-2.Open Google Chrome and go to:chrome://extensions/
+2. Open Google Chrome and go to:chrome://extensions/
 
-3.Enable Developer mode using the toggle switch in the top-right corner.
+3. Enable Developer mode using the toggle switch in the top-right corner.
 
-4.Click the Load unpacked button and select the project folder.
+4. Click the Load unpacked button and select the project folder.
 
-5.The FindMyAC icon will now appear in your browser extensions bar!
+5. The FindMyAC icon will now appear in your browser extensions bar!
 
 ---
 ## 🔑 Setup & Usage
@@ -48,13 +48,13 @@ Navigating through hundreds of submissions to find your accepted solution on Cod
 ---
 ## 🛠️ Tech Stack
 
-*Manifest Version: V3
+* Manifest Version: V3
 
-*Language: Modern JavaScript (ES6+ / Async-Await)
+* Language: Modern JavaScript (ES6+ / Async-Await)
 
-*Security: Web Cryptography API (crypto.subtle SHA-512)
+* Security: Web Cryptography API (crypto.subtle SHA-512)
 
-*APIs: Codeforces Official REST API (user.status)
+* APIs: Codeforces Official REST API (user.status)
 
 ---
 ## 📄 License
