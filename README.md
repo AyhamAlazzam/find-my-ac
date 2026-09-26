@@ -34,13 +34,13 @@ Navigating through hundreds of submissions to find your accepted solution on Cod
 ---
 ## 🔑 Setup & Usage
 
-1.Go to your Codeforces API settings page: codeforces.com/settings/api and generate an API key pair.
+1. Go to your Codeforces API settings page: codeforces.com/settings/api and generate an API key pair.
 
-2.Click the FindMyAC extension icon in your toolbar.
+2. Click the FindMyAC extension icon in your toolbar.
 
-3.Enter your API Key and API Secret, then click Save Settings.
+3. Enter your API Key and API Secret, then click Save Settings.
 
-4.Open any problem page on Codeforces:
+4. Open any problem page on Codeforces:
 
    * If you have solved it, a green "Show My Solution" button will appear immediately under the title.
     Clicking it opens your accepted submission in a new tab.
@@ -48,13 +48,13 @@ Navigating through hundreds of submissions to find your accepted solution on Cod
 ---
 ## 🛠️ Tech Stack
 
--Manifest Version: V3
+*Manifest Version: V3
 
--Language: Modern JavaScript (ES6+ / Async-Await)
+*Language: Modern JavaScript (ES6+ / Async-Await)
 
--Security: Web Cryptography API (crypto.subtle SHA-512)
+*Security: Web Cryptography API (crypto.subtle SHA-512)
 
--APIs: Codeforces Official REST API (user.status)
+*APIs: Codeforces Official REST API (user.status)
 
 ---
 ## 📄 License
