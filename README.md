@@ -21,7 +21,7 @@ Navigating through hundreds of submissions to find your accepted solution on Cod
 
 1. Clone or download this repository:
    ```bash
-   git clone [https://github.com/AyhamAlazzam/find-my-ac.git](https://github.com/AyhamAlazzam/find-my-ac.git)
+   git clone https://github.com/AyhamAlazzam/find-my-ac.git
 
 2. Open Google Chrome and go to:chrome://extensions/
 
