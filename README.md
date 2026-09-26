@@ -42,7 +42,7 @@ Navigating through hundreds of submissions to find your accepted solution on Cod
 
 4.Open any problem page on Codeforces:
 
-    If you have solved it, a green "Show My Solution" button will appear immediately under the title.
+   * ** If you have solved it, a green "Show My Solution" button will appear immediately under the title.
     Clicking it opens your accepted submission in a new tab.
 
 ---
